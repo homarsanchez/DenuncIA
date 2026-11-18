@@ -1,0 +1,3 @@
+Sistema DenuncIA (Inteligencia Artificial) · demo independiente
+Borrador de triaje. No acredita un delito ni identifica responsables. No está presentado ante ninguna autoridad.
+XAdES-BES con certificado autofirmado de prueba. El XML incluye un SHA-256 del PDF y del JSON de registros.
